@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "curiumcheat-maxpayne", "curiumcheat-maxpayne.vcxproj", "{1C5063D7-C2EF-4D44-B3DE-1929FC1C8BD6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "curiumcheat-maxpayne", "curiumcheat-maxpayne\curiumcheat-maxpayne.vcxproj", "{1C5063D7-C2EF-4D44-B3DE-1929FC1C8BD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
